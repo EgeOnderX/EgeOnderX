@@ -40,16 +40,24 @@ Why? Because of my *unnaturally* **VERY** white skin.
 I'm an **International Grandmaster (GM) candidate**.
 
 ---
-<h2 align="left"></h2>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=EgeOnderX&show_icons=true&theme=radical" width="500px"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgeOnderX&layout=compact&theme=radical" width="500px"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=EgeOnderX&theme=radical" />
-
-</div>
+<table>
+  <tr>
+    <td align="left">
+      <img src="https://github-readme-stats.vercel.app/api?username=EgeOnderX&show_icons=true&theme=radical" width="400px"/>
+    </td>
+    <td align="right">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgeOnderX&layout=compact&theme=radical" width="400px"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <img src="https://streak-stats.demolab.com/?user=EgeOnderX&theme=radical" width="400px"/>
+    </td>
+    <td align="right">
+      <img src="https://github-profile-trophy.vercel.app/?username=EgeOnderX&theme=radical&row=1&column=3" width="400px"/>
+    </td>
+  </tr>
+</table>
 <!---
 EgeOnderX/EgeOnderX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
