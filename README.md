@@ -40,7 +40,16 @@ Why? Because of my *unnaturally* **VERY** white skin.
 I'm an **International Grandmaster (GM) candidate**.
 
 ---
+<h2 align="left"></h2>
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=EgeOnderX&show_icons=true&theme=radical" width="500px"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgeOnderX&layout=compact&theme=radical" width="500px"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=EgeOnderX&theme=radical" />
+
+</div>
 <!---
 EgeOnderX/EgeOnderX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
