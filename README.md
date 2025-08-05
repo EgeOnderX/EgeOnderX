@@ -54,7 +54,7 @@ I'm an **International Grandmaster (GM) candidate**.
       <img src="https://streak-stats.demolab.com/?user=EgeOnderX&theme=radical" width="400px"/>
     </td>
     <td align="right">
-      <img src="https://github-profile-trophy.vercel.app/?username=EgeOnderX&theme=radical&row=1&column=3" width="400px"/>
+      </>
     </td>
   </tr>
 </table>
