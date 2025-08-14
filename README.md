@@ -1,8 +1,6 @@
 # 👋 Hi, I’m Ege Önder (@EgeOnderX)   <img src="https://github.com/user-attachments/assets/6a82a9bd-04b0-4ed8-bf4c-cac5479cf905" align="right" width="120" />
 ### A curious mind exploring everything from low-level computing to artificial intelligence. Always building, breaking, blowing things up and learning.
 ![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
----
-
 ## 🧠 Interests  
 - 🖥️ Pocket computers & retro hardware  
 - 🔧 Arduino, ESP32, and embedded systems  
