@@ -34,6 +34,8 @@ Why? Because of my *unnaturally* **VERY** white skin.
 
 ## ♟️ Chess  
 I'm an **International Grandmaster (GM) candidate**.
+
+## 🌐 Website: [EgeOnderX.github.io](https://EgeOnderX.github.io)
 ---
 <table>
   <tr>
@@ -49,7 +51,6 @@ I'm an **International Grandmaster (GM) candidate**.
       <img src="https://streak-stats.demolab.com/?user=EgeOnderX&theme=radical" width="400px"/>
     </td>
     <td align="right">
-      </>
     </td>
   </tr>
 </table>
