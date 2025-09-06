@@ -42,8 +42,6 @@ You can't reach me. Not easily.
 Some say I might be descended from vampires...  
 Why? Because of my *unnaturally* **VERY** white skin.
 
-## ♟️ Chess  
-I'm an **International Grandmaster (GM) candidate**.
 
 ## 🌐 Website: [EgeOnderX.github.io](https://EgeOnderX.github.io)
 ---
