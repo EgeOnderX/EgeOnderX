@@ -47,11 +47,6 @@
 有人说我可能是吸血鬼的后裔…  
 为什么？因为我的皮肤 **非常** 白。
 
-
-## ♟️ 国际象棋  
-我是 **国际特级大师 (GM) 候选人**。
-
-
 ## 🌐 网站: [EgeOnderX.github.io](https://EgeOnderX.github.io)
 ---
 <table>
