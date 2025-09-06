@@ -51,11 +51,6 @@ Bana kolay kolay ulaşamazsınız.
 Bazıları, vampir soyundan geldiğimi söylüyor...  
 Neden mi? Çünkü *doğal olmayan* şekilde **ÇOK** beyaz bir tene sahibim.
 
-
-## ♟️ Satranç  
-Ben bir **Uluslararası Büyükusta (GM) adayıyım**.
-
-
 ## 🌐 Web Sitem: [EgeOnderX.github.io](https://EgeOnderX.github.io)
 ---
 <table>
