@@ -20,7 +20,7 @@
 - 🤖 Artificial intelligence  
 - 🌐 HTML and HTA scripting
 
-## 🧑‍💻 Currently Learning  
+## 🧑‍💻 Currently Learning and Making
 - 🐍 Python  
 - ⚙️ C / C++  
 - 📡 Systems-level programming
