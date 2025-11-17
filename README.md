@@ -44,6 +44,8 @@ Why? Because of my *unnaturally* **VERY** white skin.
 
 
 ## 🌐 Website: [EgeOnderX.github.io](https://EgeOnderX.github.io)
+
+> NOTE: I don’t make fake commits; all my commits are real work. I’m not trying to keep the chart green — I just push actual progress.
 ---
 <table>
   <tr>
