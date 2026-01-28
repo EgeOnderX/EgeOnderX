@@ -5,11 +5,8 @@
 ![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 ## 📌 **Read this in other languages:**  
-- 🇹🇷 [Türkçe](README_TR.md)
 - 🇨🇳 [中文 (Chinese)](README_CN.md)
 - 🇩🇪 [Deutsch (German)](README_DE.md)
-- 🇫🇷 [Français (French)](README_FR.md)
-- 🇪🇸 [Español (Spanish)](README_ES.md)
 - 🇬🇧 [English](README.md)
 
 ## 🧠 兴趣领域  
