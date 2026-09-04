@@ -43,6 +43,11 @@ Why? Because of my *unnaturally* **VERY** white skin.
 ## 🌐 Website: [EgeOnderX.github.io](https://EgeOnderX.github.io)
 
 > NOTE: I don’t make fake commits; all my commits are real work. I’m not trying to keep the chart green — I just push actual progress.
+
+## 🎥 YouTube Channel
+- 🔴 [Ege Önder (@EgeOnderX)](https://www.youtube.com/@EgeOnderX)  
+  *The channel is brand new with mostly humor-focused content for now, but it will take shape over time!*
+
 ---
 <table>
   <tr>
