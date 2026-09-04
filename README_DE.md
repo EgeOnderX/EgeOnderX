@@ -1,10 +1,8 @@
-# 👋 Hallo, ich bin Ege Önder (@EgeOnderX)  
-<img src="https://github.com/user-attachments/assets/6a82a9bd-04b0-4ed8-bf4c-cac5479cf905" align="right" width="120" />
-
-### Ein neugieriger Geist, der alles von Low-Level-Computing bis hin zu künstlicher Intelligenz erforscht. Immer am Bauen, Zerlegen, Experimentieren und Lernen.  
+# 👋 Hallo, ich bin Ege Önder (@EgeOnderX)   <img src="https://github.com/user-attachments/assets/6a82a9bd-04b0-4ed8-bf4c-cac5479cf905" align="right" width="120" />
+### Ein neugieriger Geist, der alles von Low-Level-Computing bis hin zu künstlicher Intelligenz erforscht. Immer am Bauen, Reparieren, Zerstören und Lernen.
 ![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-## 📌 **Read this in other languages:**  
+## 📌 **Lies dies in anderen Sprachen:**  
 - 🇨🇳 [中文 (Chinese)](README_CN.md)
 - 🇩🇪 [Deutsch (German)](README_DE.md)
 - 🇬🇧 [English](README.md)
@@ -17,36 +15,39 @@
 - ⚡ Elektrische & elektronische Systeme  
 - 🧪 Physik & Chemie  
 - 🤖 Künstliche Intelligenz  
-- 🌐 HTML- und HTA-Skripting
+- 🌐 HTML und HTA-Scripting
 
-
-## 🧑‍💻 Derzeit am Lernen  
+## 🧑‍💻 Lerne und erstelle derzeit
 - 🐍 Python  
 - ⚙️ C / C++  
-- 📡 Systemnahe Programmierung  
-- 📲 **Erstellung von ARM-kompatiblen `.exe`-Anwendungen für Windows Mobile** *(z. B. ASUS MyPal A696)*
+- 📡 Systemnahe Programmierung
+- 📲 **Entwicklung ARM-kompatibler `.exe`-Anwendungen für Windows Mobile** (z. B. ASUS MyPal A696)
 
-
-## 🖥️ Entwicklungsumgebung  
-- 💽 **Betriebssystem:** Windows 11 & Linux Mint (Dual-Boot) + MS-DOS bootfähiger USB  
-- 🧠 **Prozessor:** Intel Core i7 13. Generation (16 Kerne / 20 Threads, 2.40GHz → 5.40GHz Turbo)  
-- 💾 **RAM:** 32 GB DDR4 @ 3200 MHz  
-- ⚡ **Speicher:** 1 TB NVMe SSD  
-- 🎮 **Grafikkarte:** NVIDIA RTX 4050 (Laptop-GPU)  
-- 🧰 **Editoren:** Visual Studio 2005 & 2022, Python IDLE  
-- 💻 **Terminal:** CMD, PowerShell, Bash
-
+## 🖥️ Meine Entwicklerumgebung
+- 💽 Betriebssystem: Windows 11 & Linux Mint (Dual-Boot) + bootfähiger MS-DOS-USB-Stick  
+- 🧠 CPU: Intel Core i7 13. Gen (16 Kerne / 20 Threads, 2,40 GHz → Boost bis zu 5,40 GHz)  
+- 💾 RAM: 32 GB DDR4 @ 3200 MHz  
+- ⚡ Speicher: 1 TB NVMe SSD  
+- 🎮 GPU: NVIDIA RTX 4050 (Laptop-GPU)  
+- 🧰 Editor: Visual Studio 2005 und 2022, Python IDLE  
+- 💻 Terminal: CMD, PowerShell, Bash
 
 ## 📬 Kontakt  
-Mich zu erreichen ist nicht einfach.
-
+Du kannst mich nicht erreichen. Nicht so einfach.  
 
 ## ⚡ Fun Fact  
-Manche sagen, ich könnte von Vampiren abstammen…  
-Warum? Wegen meiner **sehr** blassen Haut.
+Manche sagen, ich stamme vielleicht von Vampiren ab...  
+Warum? Wegen meiner *ungewöhnlich* **SEHR** weißen Haut.
 
 
-## 🌐 Webseite: [EgeOnderX.github.io](https://EgeOnderX.github.io)
+## 🌐 Website: [EgeOnderX.github.io](https://EgeOnderX.github.io)
+
+> HINWEIS: Ich mache keine gefälschten Commits; alle meine Commits sind echte Arbeit. Ich versuche nicht, das Diagramm grün zu halten – ich pushed nur tatsächlichen Fortschritt.
+
+## 🎥 YouTube-Kanal
+- 🔴 [Ege Önder (@EgeOnderX)](https://www.youtube.com/@EgeOnderX)  
+  *Der Kanal ist noch ganz neu und bietet vorerst hauptsächlich humorvolle Inhalte, wird sich aber im Laufe der Zeit weiterentwickeln!*
+
 ---
 <table>
   <tr>
@@ -66,5 +67,5 @@ Warum? Wegen meiner **sehr** blassen Haut.
   </tr>
 </table>
 <!---
-EgeOnderX/EgeOnderX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+EgeOnderX/EgeOnderX ist ein ✨ besonderes ✨ Repository, da seine `README.md` (diese Datei) auf deinem GitHub-Profil erscheint.
 --->
