@@ -46,7 +46,7 @@ Why? Because of my *unnaturally* **VERY** white skin.
 
 ## 🎥 YouTube Channel
 - 🔴 [Ege Önder (@EgeOnderX)](https://www.youtube.com/@EgeOnderX)  
-  *"This channel is new and I’m not putting much effort into making videos. So, this isn't really what it looks like when I make videos I actually care about."*
+  *This channel is new and I’m not putting much effort into making videos. So, this isn't really what it looks like when I make videos I actually care about.*
 
 ---
 <table>
