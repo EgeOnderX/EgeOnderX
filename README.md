@@ -24,8 +24,8 @@
 - 📲 **Building ARM-compatible `.exe` applications for Windows Mobile** (e.g. ASUS MyPal A696)
 
 ## 🖥️ My Dev Environment
-- 💽 OS: Windows 11 & Linux Mint (dual boot) + MS-DOS bootable flash drive  
-- 🧠 CPU: Intel Core i7 13th Gen (16 cores / 20 threads, 2.40 GHz → Boost up to 5.40 GHz)  
+- 💽 OS: ZorinOS
+- 🧠 CPU: Intel Core i7 13th Gen
 - 💾 RAM: 32 GB DDR4 @ 3200 MHz  
 - ⚡ Storage: 1 TB NVMe SSD  
 - 🎮 GPU: NVIDIA RTX 4050 (Laptop GPU)  
@@ -46,7 +46,7 @@ Why? Because of my *unnaturally* **VERY** white skin.
 
 ## 🎥 YouTube Channel
 - 🔴 [Ege Önder (@EgeOnderX)](https://www.youtube.com/@EgeOnderX)  
-  *The channel is brand new with mostly humor-focused content for now, but it will take shape over time!*
+  *"This channel is new and I’m not putting much effort into making videos. So, this isn't really what it looks like when I make videos I actually care about."*
 
 ---
 <table>
