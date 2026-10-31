@@ -8,9 +8,8 @@
 - 🔧 Arduino, ESP32, and embedded systems  
 - 💻 Windows kernel & Linux distributions  
 - ⚡ Electrical & electronic systems  
-- 🧪 Physics & chemistry  
 - 🤖 Artificial intelligence  
-- 🌐 HTML and HTA scripting
+- 📜 History & Empires
 
 ## 🧑‍💻 Currently Learning and Making
 - 🐍 Python  
@@ -19,13 +18,12 @@
 - 📲 **Building ARM-compatible `.exe` applications for Windows Mobile** (e.g. ASUS MyPal A696)
 
 ## 🖥️ My Dev Environment
-- 💽 OS: ZorinOS
-- 🧠 CPU: Intel Core i7 13th Gen
-- 💾 RAM: 32 GB DDR4 @ 3200 MHz  
-- ⚡ Storage: 1 TB NVMe SSD  
-- 🎮 GPU: NVIDIA RTX 4050 (Laptop GPU)  
-- 🧰 Editor: Visual Studio 2005 and 2022, Python IDLE  
-- 💻 Terminal: CMD, PowerShell, Bash
+-  OS: ZorinOS
+-  CPU: Intel Core i7 13th Gen
+-  RAM: 32 GB DDR4 @ 3200 MHz  
+-  Storage: 1 TB NVMe SSD  
+-  GPU: NVIDIA RTX 4050 (Laptop GPU)  
+-  Editor: Visual Studio 2005 and 2022, Python IDLE  
 
 ## 📬 Contact  
 You can't reach me. Not easily.  
@@ -40,7 +38,7 @@ Why? Because of my *unnaturally* **VERY** white skin.
 > NOTE: I don’t make fake commits; all my commits are real work. I’m not trying to keep the chart green — I just push actual progress.
 
 ## 🎥 YouTube Channel
-- 🔴 [Ege Önder (@EgeOnderX)](https://www.youtube.com/@EgeOnderX)  
+-  [Ege Önder (@EgeOnderX)](https://www.youtube.com/@EgeOnderX)  
   *This channel is new and I’m not putting much effort into making videos. So, this isn't really what it looks like when I make videos I actually care about.*
 
 ---
