@@ -20,7 +20,7 @@
 ## 🖥️ My Dev Environment
 -  OS: ZorinOS
 -  CPU: Intel Core i7 13th Gen
--  RAM: 32 GB DDR4 @ 3200 MHz  
+-  RAM: 32 GB DDR4 @ 3200 MHz  (DO NOT STEAL IT.)
 -  Storage: 1 TB NVMe SSD  
 -  GPU: NVIDIA RTX 4050 (Laptop GPU)  
 -  Editor: Visual Studio 2005 and 2022, Python IDLE  
